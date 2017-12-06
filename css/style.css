@@ -99,7 +99,7 @@ figcaption {
 }
 
 .first {
-  margin-left: 0;
+  margin-left: 0%;
 }
 
 img, video, audio {
@@ -129,7 +129,7 @@ section {
 #social {
   position: fixed;
   top: 200px;
-  left: 20px;
+  right: 20px;
   width: 40px;
   z-index: 1;
 }
